@@ -302,3 +302,13 @@ a:focus, a:hover {
 footer {
   padding: 5rem 0;
 }
+.registro {color: #fff;}
+
+
+
+.transparente{
+opacity: 0.6;
+-moz-opacity: 0.6;
+filter: alpha(opacity=65);
+-khtml-opacity: 0.6;
+}
